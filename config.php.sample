@@ -1,0 +1,4 @@
+<?php
+// نمونه فایل تنظیمات (نام واقعی را به `config.php` تغییر دهید)
+define('ZARINPAL_LINK_ID', '712553'); // جایگزین کنید با لینک ID خود
+// define('TELEGRAM_BOT_TOKEN', ''); // اختیاری
